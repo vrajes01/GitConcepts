@@ -1,1 +1,2 @@
 Line 1: First line of the note in a shared file
+Line 2: Added 2nd line to notes.
