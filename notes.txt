@@ -1,3 +1,5 @@
 Line 1: First line of the note in a shared file
 Line 2: Added 2nd line to notes.
 Line 3: Adding sriking line to 3rd line _*_*_*_*_*_*_*_*_
+Line 4: Assume this line is colored.
+
