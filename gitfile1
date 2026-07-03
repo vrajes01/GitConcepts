@@ -5,6 +5,7 @@ Adding new information to test file:
 Key Point:
 
 Push = send local changes → GitHub.
+cmd: git push origin main
 
 Pull = bring remote changes (changed in github) → local VS Code.
 cmd: git pull origin main
